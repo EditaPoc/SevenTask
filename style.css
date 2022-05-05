@@ -47,6 +47,11 @@ section {
     line-height: 1.6;
 }
 
+.row:last-child div:last-child {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
 .row:last-child img {
     width: 75px;
     height: 75px;
